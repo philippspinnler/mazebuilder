@@ -1,0 +1,23 @@
+{
+  "name": "mazebuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "p5": "^0.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://philippspinnler@github.com/philippspinnler/mazebuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippspinnler/mazebuilder/issues"
+  },
+  "homepage": "https://github.com/philippspinnler/mazebuilder#readme"
+}
